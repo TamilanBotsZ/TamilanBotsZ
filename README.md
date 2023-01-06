@@ -37,4 +37,4 @@ Made With Tamilan ❤️
 
 ## Profile views counter
 
-![Visitor Count](https://profile-counter.glitch.me/{LazyDevelop}/cou
+![Visitor Count](https://profile-counter.glitch.me/{TamilanBotsZ}/count.svg)
