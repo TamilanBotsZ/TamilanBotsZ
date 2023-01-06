@@ -1,7 +1,7 @@
-Iam Sharath
-Iam From TamilNadu
-Iam Tamil Developer
-Iam Young Developer
+ - Iam Sharath 💥
+ - Iam From TamilNadu ❣️
+ - Iam Tamil Developer 🧑‍💻
+ - Iam Young Developer ⚡
 
 ## 💜 𝗚𝗜𝗧𝗛𝗨𝗕 •••
 
